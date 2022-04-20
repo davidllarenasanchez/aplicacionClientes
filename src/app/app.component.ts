@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
 
   title = 'Bienvenido a la aplicacionClientes en  Angular';
-  curso: string ="Curso de Spring 5 con Angular";
+  curso: string ='Curso de Spring 5 con Angular CLI';
 }
